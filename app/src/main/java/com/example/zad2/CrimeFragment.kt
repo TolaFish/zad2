@@ -1,5 +1,4 @@
 package com.example.zad2
-
 import android.os.Bundle
 import android.text.Editable
 import android.text.TextWatcher
